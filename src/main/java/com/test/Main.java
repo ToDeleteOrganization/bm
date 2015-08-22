@@ -15,7 +15,7 @@ public class Main {
 
         Boss man = new ManagerEmployee("Marius's boss");
         man.addEmployee(ec);
-        man.addEmployee(new NormalEmployee("Ioan Marius"));
+        man.addEmployee(new NormalEmployee("the master banrch: Ioan Marius"));
         
         System.out.println(ec.getName());
         man.showEmployees();
