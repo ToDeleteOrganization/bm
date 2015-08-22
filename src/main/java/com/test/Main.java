@@ -6,7 +6,7 @@ import com.test.composite.ManagerEmployee;
 import com.test.composite.NormalEmployee;
 
 /**
- * Created by malu on 8/22/2015.
+ * Marius is trying, but his not succeding!
  */
 public class Main {
     public static void main(String argsp[]) {
@@ -23,4 +23,3 @@ public class Main {
 }
 
 // Ok, so what the fuck is this, and what does this do????
-// another issue comment
