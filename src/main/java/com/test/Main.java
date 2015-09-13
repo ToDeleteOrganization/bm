@@ -21,5 +21,3 @@ public class Main {
         man.showEmployees();
     }
 }
-
-// Ok, so what the fuck is this, and what does this do????
